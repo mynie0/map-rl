@@ -629,6 +629,11 @@
             "name": "MT Age v2 Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/age_habeg.json",
             "locked": false
+        },
+        {
+            "name": "test",
+            "url": "https://github.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/blob/main/mount_neovaria.json",
+            "locked": false
         }
     ]
 }
