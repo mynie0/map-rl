@@ -6,11 +6,6 @@
             "locked": false
         },
         {
-            "name": "MT Age",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_age.json",
-            "locked": false
-        },
-        {
             "name": "MT Agora",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_agora.json",
             "locked": false
