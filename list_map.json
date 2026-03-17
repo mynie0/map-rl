@@ -634,6 +634,11 @@
             "name": "MT Yahayuk V3 (WASD)",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_yahayuk_wasd.json",
             "locked": false
+        },
+        {
+            "name": "MT Gasak V3",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_gasak_v3_habeg.json",
+            "locked": false
         }
     ]
 }
