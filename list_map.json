@@ -629,6 +629,11 @@
             "name": "MT Neoveria",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_neovaria.json",
             "locked": false
+        },
+        {
+            "name": "MT Yahayuk V3 (WASD)",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_yahayuk_wasd.json",
+            "locked": false
         }
     ]
 }
