@@ -689,6 +689,11 @@
             "name": "MT Miracle",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_wasd_miracle.json",
             "locked": false
+        },
+        {
+            "name": "MT Ausora",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_ausora.json",
+            "locked": false
         }
     ]
 }
