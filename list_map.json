@@ -684,6 +684,11 @@
             "name": "MT Seraphim Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_seraphim_habeg.json",
             "locked": false
+        },
+        {
+            "name": "MT Miracle",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_wasd_miracle.json",
+            "locked": false
         }
     ]
 }
