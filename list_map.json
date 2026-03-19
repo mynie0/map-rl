@@ -669,6 +669,11 @@
             "name": "MT Xiera",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_xeria.json",
             "locked": false
+        },
+        {
+            "name": "MT Voltra Habeg",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_voltra_habeg.json",
+            "locked": false
         }
     ]
 }
