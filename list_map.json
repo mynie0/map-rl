@@ -502,13 +502,13 @@
         },
         {
             "name": "MT Yahayuk V3 (Normal)",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_yahayuk_normal.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/yahayuk_normal.json",
             "locked": false
         },
         {
             "name": "MT Yahayuk V3 (Cvip)",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_yahayuk_cvip_wasd.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Goyaa",
@@ -618,7 +618,7 @@
         {
             "name": "MT Yahayuk V3 (WASD)",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_yahayuk_wasd.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Gasak V3",
