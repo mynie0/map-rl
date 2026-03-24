@@ -694,6 +694,11 @@
             "name": "MT Lunarix",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_lunarix.json",
             "locked": false
+        },
+        {
+            "name": "MT TESTTTTTTTTTTTTTTTTTTTTTTTT",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_lunarix12.json",
+            "locked": false
         }
     ]
 }
