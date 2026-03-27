@@ -709,6 +709,11 @@
             "name": "MT Eternity",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_eternity.json",
             "locked": false
+        },
+        {
+            "name": "MT Agana",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/agana.json",
+            "locked": false
         }
     ]
 }
