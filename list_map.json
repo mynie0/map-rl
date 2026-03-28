@@ -729,6 +729,11 @@
             "name": "MT Nebya S2",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Nebya.json",
             "locked": false
+        },
+        {
+            "name": "MT Rieut Obstacle",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/rieut.json",
+            "locked": false
         }
     ]
 }
