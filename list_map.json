@@ -739,6 +739,11 @@
             "name": "MT Musmid Obstacle",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_musmid_obstacle.json",
             "locked": false
+        },
+        {
+            "name": "MT Veloria",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/veloria.json",
+            "locked": false
         }
     ]
 }
