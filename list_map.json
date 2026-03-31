@@ -749,6 +749,11 @@
             "name": "MT Euria",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/euria.json",
             "locked": false
+        },
+        {
+            "name": "MT Atin V2",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_atin_v2.json",
+            "locked": false
         }
     ]
 }
