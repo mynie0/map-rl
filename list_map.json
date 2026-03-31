@@ -759,6 +759,11 @@
             "name": "MT Skytopia",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/skytopia.json",
             "locked": false
+        },
+        {
+            "name": "MT Valthera",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/valthera.json",
+            "locked": false
         }
     ]
 }
