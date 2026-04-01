@@ -764,6 +764,11 @@
             "name": "MT Valthera",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/valthera.json",
             "locked": false
+        },
+        {
+            "name": "MT Luvia",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/luvia.json",
+            "locked": false
         }
     ]
 }
