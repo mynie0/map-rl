@@ -608,12 +608,12 @@
         {
             "name": "MT Age v2 Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/age_habeg.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Neoveria",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/neovaria_new.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Yahayuk V3 (WASD)",
