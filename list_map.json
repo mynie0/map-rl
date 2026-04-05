@@ -784,6 +784,11 @@
             "name": "MT Astral",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/atral.json",
             "locked": false
+        },
+        {
+            "name": "MT Alfira Habeg",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/alfira_habeg.json",
+            "locked": false
         }
     ]
 }
