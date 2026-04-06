@@ -538,7 +538,7 @@
         {
             "name": "MT Parker",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/parkernew.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Celsus",
