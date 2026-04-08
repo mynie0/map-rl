@@ -794,6 +794,11 @@
             "name": "MT Vorexa",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/vorexa.json",
             "locked": false
+        },
+        {
+            "name": "MT Dranix Habeg",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/dranixnaga.json",
+            "locked": false
         }
     ]
 }
