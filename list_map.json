@@ -267,7 +267,7 @@
         },
         {
             "name": "MT Noxera",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/noxera_normalnew.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_noxera_normal.json",
             "locked": true
         },
         {
@@ -758,7 +758,7 @@
         {
             "name": "MT Valthera",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_valthera.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Luvia",
