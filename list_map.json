@@ -809,6 +809,11 @@
             "name": "MT Aveleon",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/aveleon.json",
             "locked": false
+        },
+        {
+            "name": "MT Enyong",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/enyong.json",
+            "locked": false
         }
     ]
 }
