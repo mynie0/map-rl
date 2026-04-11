@@ -819,6 +819,11 @@
             "name": "MT Alena",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_alena.json",
             "locked": false
+        },
+        {
+            "name": "MT Balirace",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Balirace.json",
+            "locked": false
         }
     ]
 }
