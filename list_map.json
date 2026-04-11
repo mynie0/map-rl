@@ -547,7 +547,7 @@
         },
         {
             "name": "MT Gates OF Hell",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/gates_of_hell.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_gates_of_hell.json",
             "locked": false
         },
         {
@@ -738,7 +738,7 @@
         {
             "name": "MT Veloria CVIP",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/veloria.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Euria",
@@ -763,7 +763,7 @@
         {
             "name": "MT Luvia",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/luvia_habeg.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Yahayuk Habeg",
