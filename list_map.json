@@ -814,6 +814,11 @@
             "name": "MT Enyong",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/enyong.json",
             "locked": false
+        },
+        {
+            "name": "MT Veloria",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/veloria_normal.json",
+            "locked": false
         }
     ]
 }
