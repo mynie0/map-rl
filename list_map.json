@@ -834,6 +834,11 @@
             "name": "MT Lestera",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_lestara.json",
             "locked": false
+        },
+        {
+            "name": "MT Victoria Habeg",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_victoria_habeg.json",
+            "locked": false
         }
     ]
 }
