@@ -829,6 +829,11 @@
             "name": "MT Noxera Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_noxera_habeg.json",
             "locked": false
+        },
+        {
+            "name": "MT Lestera",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_lestara.json",
+            "locked": false
         }
     ]
 }
