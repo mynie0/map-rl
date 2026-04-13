@@ -818,7 +818,7 @@
         {
             "name": "MT Alena",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/alena.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Balirace",
