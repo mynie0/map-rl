@@ -697,8 +697,8 @@
         },
         {
             "name": "MT Kyoukai Obstacle",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/kyoukai_obstacle.json",
-            "locked": true
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/kyoukai.json",
+            "locked": false
         },
         {
             "name": "MT Eternity",
