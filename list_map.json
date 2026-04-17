@@ -757,8 +757,8 @@
         },
         {
             "name": "MT Valthera",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/valthera.json",
-            "locked": true
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/valthera_wasdnaga.json",
+            "locked": false
         },
         {
             "name": "MT Luvia",
