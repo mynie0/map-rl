@@ -848,7 +848,7 @@
         {
             "name": "MT AMSP Obstacle",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/amsp_obstacle_edited.json",
-            "locked": true
+            "locked": false
         }
     ]
 }
