@@ -603,7 +603,7 @@
         {
             "name": "MT Neoveria",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/neovaria.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Yahayuk V3 (WASD)",
