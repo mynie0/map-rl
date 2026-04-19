@@ -241,11 +241,6 @@
             "locked": false
         },
         {
-            "name": "MT Mukjijat Obstacle",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_mukjijat_obstacle.json",
-            "locked": false
-        },
-        {
             "name": "MT Nese",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_nese.json",
             "locked": false
@@ -633,7 +628,7 @@
         {
             "name": "MT Mukjijat Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_mukjijat_obstacle_habeg.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Dominator",
@@ -778,7 +773,7 @@
         {
             "name": "MT Galatic",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/galatic.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Astral",
