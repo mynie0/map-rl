@@ -623,7 +623,7 @@
         {
             "name": "MT Mukjijat Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mukjijat_obstacle.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Dominator",
