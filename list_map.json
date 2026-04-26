@@ -363,7 +363,7 @@
         {
             "name": "MT Velora Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/veloranew1.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Vexyria (Extreme)",
