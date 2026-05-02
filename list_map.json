@@ -864,6 +864,11 @@
             "name": "MT Miracle",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/miracle_normalvip.json",
             "locked": false
+        },
+        {
+            "name": "MT Rizard V2",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_obstacle_rizard_v2.json",
+            "locked": false
         }
     ]
 }
