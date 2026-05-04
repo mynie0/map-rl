@@ -869,6 +869,11 @@
             "name": "MT Rizard V2",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_obstacle_rizard_v2.json",
             "locked": false
+        },
+        {
+            "name": "MT Ragnar",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_ragnar.json",
+            "locked": false
         }
     ]
 }
