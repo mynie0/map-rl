@@ -894,6 +894,11 @@
             "name": "MT Eldest",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Eldest_obstacle_habeg.json",
             "locked": false
+        },
+        {
+            "name": "MT Vagora",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Mt_vagora_habeg.json",
+            "locked": false
         }
     ]
 }
