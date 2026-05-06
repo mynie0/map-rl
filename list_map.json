@@ -818,7 +818,7 @@
         {
             "name": "MT Noxera Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/newnoxera_habeg.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Lestera",
@@ -857,7 +857,7 @@
         },
         {
             "name": "MT Noxera Ultra",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/noxera_ucoil.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/newnoxera_ucoil.json",
             "locked": true
         },
         {
