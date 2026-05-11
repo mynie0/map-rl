@@ -467,7 +467,7 @@
         },
         {
             "name": "MT Yayakin V1",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_yayakin_habeg.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/yayakinnew.json",
             "locked": false
         },
         {
@@ -583,11 +583,6 @@
         {
             "name": "MT Plengerion",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_plengerion.json",
-            "locked": false
-        },
-        {
-            "name": "MT Yayakin Obstacle",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/yayakin_obstacle.json",
             "locked": false
         },
         {
