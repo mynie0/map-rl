@@ -363,7 +363,7 @@
         {
             "name": "MT Velora",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/veloraupdate.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Vexyria (Extreme)",
@@ -773,7 +773,7 @@
         {
             "name": "MT Alfira Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_alfira.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Vorexa",
