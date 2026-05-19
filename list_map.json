@@ -894,6 +894,11 @@
             "name": "MT Lunex",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/lunex.json",
             "locked": false
+        },
+        {
+            "name": "MT Mamivora Naga",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mamivora_naga.json",
+            "locked": false
         }
     ]
 }
