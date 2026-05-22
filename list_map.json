@@ -41,11 +41,6 @@
             "locked": false
         },
         {
-            "name": "MT Ayaka",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_ayaka_v2_habeg.json",
-            "locked": false
-        },
-        {
             "name": "Mt Ayriene",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Mount_Ayriene.json",
             "locked": false
@@ -578,11 +573,6 @@
         {
             "name": "MT Plengerion",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_plengerion.json",
-            "locked": false
-        },
-        {
-            "name": "MT Ayaka Habeg",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/ayaka_habeg.json",
             "locked": false
         },
         {
