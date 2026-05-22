@@ -889,6 +889,11 @@
             "name": "MT Mamivora Naga",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mamivora_naga.json",
             "locked": false
+        },
+        {
+            "name": "MT Mustahil",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Mt_mustahil.json",
+            "locked": false
         }
     ]
 }
