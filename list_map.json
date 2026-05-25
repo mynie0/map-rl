@@ -899,6 +899,11 @@
             "name": "MT Oracle Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/oraclesemi.json",
             "locked": false
+        },
+        {
+            "name": "MT Southside Habeg",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/southside.json",
+            "locked": false
         }
     ]
 }
