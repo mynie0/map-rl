@@ -904,6 +904,11 @@
             "name": "MT Southside Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/southside.json",
             "locked": false
+        },
+        {
+            "name": "MT Z",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/aethervoid.json",
+            "locked": false
         }
     ]
 }
