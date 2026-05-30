@@ -863,7 +863,7 @@
         {
             "name": "MT Cavelas",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mtcavelas.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Vagora",
@@ -878,7 +878,7 @@
         {
             "name": "MT Lunex",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/lunexnew.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Mamivora Naga",
