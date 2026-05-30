@@ -596,11 +596,6 @@
             "locked": false
         },
         {
-            "name": "MT Victoria",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/victoria.json",
-            "locked": false
-        },
-        {
             "name": "MT Mukjijat Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mukjijat_obstacle.json",
             "locked": false
@@ -807,7 +802,7 @@
         },
         {
             "name": "MT Victoria Habeg",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_victoria_habeg.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/newupvictoria.json",
             "locked": false
         },
         {
