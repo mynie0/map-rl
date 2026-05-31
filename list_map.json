@@ -863,7 +863,7 @@
         {
             "name": "MT Cavelas",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/cavelas.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Vagora",
