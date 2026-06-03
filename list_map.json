@@ -904,6 +904,11 @@
             "name": "MT Z",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/aethervoid.json",
             "locked": false
+        },
+        {
+            "name": "MT Draw Habeg",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/draw.json",
+            "locked": false
         }
     ]
 }
