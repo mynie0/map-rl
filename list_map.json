@@ -763,7 +763,7 @@
         {
             "name": "MT Dranix Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/newdranix.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Aveleon",
