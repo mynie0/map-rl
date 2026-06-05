@@ -763,7 +763,7 @@
         {
             "name": "MT Dranix Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/dranix_naga.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Aveleon",
@@ -908,6 +908,11 @@
         {
             "name": "MT Draw Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/drawnw.json",
+            "locked": false
+        },
+        {
+            "name": "MT Dranix",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/dranix_normal.json",
             "locked": false
         }
     ]
