@@ -626,8 +626,8 @@
             "locked": false
         },
         {
-            "name": "MT Seraphim Normal",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/seraphim_normal.json",
+            "name": "MT Seraphim Habeg",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/seraphim.json",
             "locked": false
         },
         {
@@ -643,11 +643,6 @@
         {
             "name": "MT Wek Obstacle",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/wek_obstacle.json",
-            "locked": false
-        },
-        {
-            "name": "MT Seraphim x150",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/seraphim_x150.json",
             "locked": false
         },
         {
