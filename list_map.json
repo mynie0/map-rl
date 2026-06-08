@@ -909,6 +909,11 @@
             "name": "MT Dranix",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/dranix_normal.json",
             "locked": false
+        },
+        {
+            "name": "NT Dewmount",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/dewmount.json",
+            "locked": false
         }
     ]
 }
