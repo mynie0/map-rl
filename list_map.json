@@ -914,11 +914,6 @@
       "name": "NT Dewmount",
       "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/dewmount1.json",
       "locked": false
-    },
-    {
-      "name": "Hampa Obstacle",
-      "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/Hampa habeg.json",
-      "locked": false
     }
   ]
 }
