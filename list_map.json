@@ -919,6 +919,11 @@
       "name": "tt",
       "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/gg.json",
       "locked": false
+    },
+    {
+      "name": "MT Hampa Obstacle",
+      "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/bb.json",
+      "locked": false
     }
   ]
 }
