@@ -922,7 +922,7 @@
     },
     {
       "name": "MT Hampa Obstacle",
-      "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/bb.json",
+      "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/bb_array.json",
       "locked": false
     }
   ]
