@@ -924,6 +924,11 @@
       "name": "MT Hampa Obstacle",
       "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/hampa.json",
       "locked": false
+    },
+    {
+      "name": "test",
+      "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/Merged_115509.json",
+      "locked": false
     }
   ]
 }
