@@ -919,6 +919,11 @@
       "name": "MT Hampa Obstacle",
       "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/hampa.json",
       "locked": false
+    },
+    {
+      "name": "MT Cryland",
+      "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/cryland.json",
+      "locked": false
     }
   ]
 }
