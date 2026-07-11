@@ -251,11 +251,6 @@
       "locked": false
     },
     {
-      "name": "MT Noxera",
-      "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/newnoxera_normal.json",
-      "locked": false
-    },
-    {
       "name": "MT Ojeg",
       "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_ojeg.json",
       "locked": false
@@ -923,6 +918,16 @@
     {
       "name": "MT Cryland",
       "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/cryland.json",
+      "locked": false
+    },
+    {
+      "name": "MT Noxera",
+      "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/n.json",
+      "locked": false
+    },
+    {
+      "name": "MT NOXERA",
+      "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/n.json",
       "locked": false
     }
   ]
