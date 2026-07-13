@@ -924,6 +924,11 @@
       "name": "MT Noxera",
       "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/noxeraaa.json",
       "locked": false
+    },
+    {
+      "name": "MT Hampa Obstacle Naga",
+      "url": "https://raw.githubusercontent.com/mynie0/map-rl/main/hampa_naga.json",
+      "locked": false
     }
   ]
 }
